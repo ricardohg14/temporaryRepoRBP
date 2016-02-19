@@ -1,6 +1,7 @@
 package edu.saintjoe.cs.rpostma;
 
 public class tempDriver {
+	//I have forked this project from Ryan's Repo
 
 	public static void main(String[] args) {
 		int array[];
@@ -13,6 +14,7 @@ public class tempDriver {
 			System.out.println("Array has " + array[i] + " in position " + i);
 		}
 		System.out.println("Notice a pattern?");
+		
 	
 	}
 	
